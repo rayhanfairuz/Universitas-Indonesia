@@ -1,1 +1,13 @@
-# Universitas-Indonesia
+Akademic-UniversitasIndonesia/
+├── Term-1/
+│   ├── Matkul-1/
+│   ├── Matkul-2/
+│   ├── ...
+│   └── Matkul-6/
+├── Term-2/
+│   ├── Matkul-1/
+│   └── ...
+├── ...
+└── Term-6/
+    ├── Matkul-1/
+    └── ...
